@@ -1,2 +1,9 @@
-### E_Commerce_Customer_Segmentation_EXCEL
+### [EXCEL] E-Commerce Customer Segmentation Analysis
+
 In the realm of e-commerce, understanding customer behavior and preferences is crucial for effective marketing and personalized experiences. 
+
+
+# The Objective: 
+• Rank and Group Customers
+• Identify good and bad segments 
+• Who are the most valuable customers?
