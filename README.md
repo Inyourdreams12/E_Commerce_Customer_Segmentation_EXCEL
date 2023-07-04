@@ -12,7 +12,7 @@ In the realm of e-commerce, we're going to divide our customers on the E-commerc
 Rank and group customers based on the Recency, Frequency and Monetary total of their transactions to identify the best customers and perform targeted marketing campaigns
 
 ## Tools: 
-Excel: Data Cleansing, Percentile Rank, Pivot Table
+Excel: Data Cleansing, Percentile Rank, Pivot Table <br/>
 PowerPoint: Chart Design
 
 <pre>
