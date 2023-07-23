@@ -13,7 +13,7 @@ Rank and group customers based on the Recency, Frequency and Monetary total of t
 
 ## Tools: 
 Excel: Data Cleansing, Percentile Rank, Pivot Table <br/>
-PowerPoint: Chart Design
+PowerPoint: Chart Re-Design
 
 <pre>
 
